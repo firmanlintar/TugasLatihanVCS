@@ -44,7 +44,8 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
   - Bukalah profile kalian, kemudia pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
   - Setelahnya kamu dapat pergi pada tulisan *'New Repository'*
 
-![Screenshot (9)](https://user-images.githubusercontent.com/72906579/96259118-5140df00-0fe7-11eb-9584-711c7bdb81f5.png)
+![2020-10-18 (2)](https://user-images.githubusercontent.com/73008498/96358759-2795ce00-1135-11eb-8c34-00d13bccf8c6.png)
+
 
 
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
