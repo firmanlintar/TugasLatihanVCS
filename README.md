@@ -50,7 +50,8 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik.
 
-![Screenshot (10)](https://user-images.githubusercontent.com/72906579/96259138-5867ed00-0fe7-11eb-9225-a6cef6649368.png)
+![2020-10-18 (3)](https://user-images.githubusercontent.com/73008498/96358799-7e9ba300-1135-11eb-8dfb-62375bfb4568.png)
+
 
 
   - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan.
