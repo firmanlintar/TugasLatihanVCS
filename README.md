@@ -66,14 +66,15 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 
  - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya.
 
-![Screenshot (13)](https://user-images.githubusercontent.com/72906579/96259170-6cabea00-0fe7-11eb-9ce5-84d99854a36f.png)
+![2020-10-18 (5)](https://user-images.githubusercontent.com/73008498/96358849-e651ee00-1135-11eb-851f-4a7e1a5cf00f.png)
 
 
  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
 
-![Screenshot (14)](https://user-images.githubusercontent.com/72906579/96259174-6f0e4400-0fe7-11eb-817d-f89aee7f3614.png)
+![2020-10-18 (6)](https://user-images.githubusercontent.com/73008498/96358879-2c0eb680-1136-11eb-9041-90ce6856643f.png)
 
 
  - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian.
  
- ![Screenshot (22)](https://user-images.githubusercontent.com/72906579/96267209-bdc0db80-0ff1-11eb-9a6c-32da7d9cbb17.png)
+ ![2020-10-18 (7)](https://user-images.githubusercontent.com/73008498/96358890-45176780-1136-11eb-96c4-3963413c843b.png)
+
